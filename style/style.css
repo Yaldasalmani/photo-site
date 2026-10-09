@@ -1,0 +1,27 @@
+#clarity {
+  background-color: #f0f0f0;
+  padding-top: 55px;
+  padding-bottom: 50px;
+}
+#clarity figure {
+  padding-left: 30px;
+}
+#clarity figure img {
+  border-radius: 10px;
+}
+#clarity article {
+  padding-top: 90px;
+}
+#clarity article h1 b {
+  font-size: 60px;
+}
+#clarity h2 {
+  font-size: 50px;
+  color: #f44336;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#clarity p {
+  font-size: 20px;
+  width: 100%;
+}/*# sourceMappingURL=style.css.map */
